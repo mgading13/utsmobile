@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Ticket Bus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="web_client_id">269858101596-fr45a7l4i25nkasimnvla58q76fjh3om.apps.googleusercontent.com</string>
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+</resources>
